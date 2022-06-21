@@ -7,8 +7,10 @@
 
 def Mayuresh():
 
-  skills_with_proficiency = {'Python': 'Advance', 'EDA': 'Intermidiate', 'Machine Learning': 'Intermidiate', 'Statistics': 'Intermidiate'}
+  Skills_with_proficiency = {'Python': 'Advance', 'EDA': 'Intermidiate', 'Machine Learning': 'Intermidiate', 'Statistics': 'Intermidiate', 'Deep Learning': 'Intermediate'}
   
-  tools = ['numpy', 'pandas', 'sklearn', 'matplotlib', 'seaborn', 'plotly']
+  Active_blogger = True
+  
+  Tools = ['numpy', 'pandas', 'sklearn', 'matplotlib', 'seaborn', 'plotly', 'keras']
   
   return ∞
