@@ -32,17 +32,16 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" alt="nginx" width="40" height="40"/></a>
-  <a href="https://developer.nvidia.com/nvidia-triton-inference-server" target="_blank" rel="noreferrer"><img src="https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/_images/nvidia-logo-vert-rgb-blk-for-screen.png" alt="nvidia-triton" width="60" height="50"/></a>
-  <a href="https://onnx.ai/" target="_blank" rel="noreferrer"><img src="https://onnx.ai/images/ONNX-Logo.svg" alt="onnx" width="70" height="70"/></a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="keras" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="flask" width="40" height="40"/></a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg" alt="tableau" width="100" height="70"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
-  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/> </a>
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" alt="nginx" width="60" height="50"/> </a>
+  <a href="https://developer.nvidia.com/nvidia-triton-inference-server" target="_blank" rel="noreferrer"> <img src="https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/_images/nvidia-logo-vert-rgb-blk-for-screen.png" alt="nvidia-triton" width="60" height="50"/> </a>
+  <a href="https://onnx.ai/" target="_blank" rel="noreferrer"> <img src="https://onnx.ai/images/ONNX-Logo.svg" alt="onnx" width="70" height="70"/> </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="keras" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="flask" width="40" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg" alt="tableau" width="100" height="70"/> </a>
+
 </p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayuresh999&show_icons=true&locale=en&layout=compact" alt="Mayuresh999" /></p>
 <p>&nbsp;<img align="center" width = "400" src="https://github-readme-stats.vercel.app/api?username=Mayuresh999&show_icons=true&locale=en" alt="Mayuresh999" /></p> -->
